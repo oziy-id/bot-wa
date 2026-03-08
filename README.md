@@ -46,7 +46,7 @@ This project is built with security in mind. All sensitive credentials are manag
 1.  **Clone the Repository:**
     ```bash
     git clone [https://github.com/oziy-id/nadia-bot.git](https://github.com/oziy-id/bot-wa.git)
-    cd nadia-bot
+    cd bot-wa
     ```
 2.  **Install Dependencies:**
     ```bash
