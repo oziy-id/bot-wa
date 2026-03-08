@@ -1,0 +1,14 @@
+2026/03/08-19:47:17.062 6fe9 Reusing MANIFEST /root/bot_ozi/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/08-19:47:17.078 6fe9 Recovering log #238
+2026/03/08-19:47:17.483 6fe9 Reusing old log /root/bot_ozi/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000238.log 
+2026/03/08-19:47:31.168 6fe9 Level-0 table #247: started
+2026/03/08-19:47:31.242 6fe9 Level-0 table #247: 1524824 bytes OK
+2026/03/08-19:47:31.265 6fe9 Delete type=0 #238
+2026/03/08-19:47:31.414 6feb Compacting 1@1 + 5@2 files
+2026/03/08-19:47:31.611 6feb Generated table #248@1: 67783 keys, 2315106 bytes
+2026/03/08-19:47:31.701 6feb Generated table #249@1: 26340 keys, 2194497 bytes
+2026/03/08-19:47:31.752 6feb Generated table #250@1: 1013 keys, 2128137 bytes
+2026/03/08-19:47:31.896 6feb Generated table #251@1: 25546 keys, 2198909 bytes
+2026/03/08-19:47:32.029 6feb Generated table #252@1: 57304 keys, 1594595 bytes
+2026/03/08-19:47:32.029 6feb Compacted 1@1 + 5@2 files => 10431244 bytes
+2026/03/08-19:47:32.034 6feb compacted to: files[ 0 0 5 0 0 0 0 ]
